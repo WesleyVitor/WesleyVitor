@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+- 🚀 Dev FullStack focus on FrontEnd
 - 🌱 I’m currently learning Typescript, Prisma and Remix.run
 - 💬 Ask me about Javascript and ReactJS
 
