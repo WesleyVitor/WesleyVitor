@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🚀 Dev FullStack focus on FrontEnd
+- 🚀 Dev FullStack focus on Javascript
 - 🌱 I’m currently learning Typescript, Prisma and Docker
 - 💬 Ask me about Javascript and ReactJS
 
