@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🚀 Software Developer focus on Javascript
+- 🚀 Software Developer focus on Python
 - 🌱 I’m currently learning Python, Django and Docker
 
 
