@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning Python, Django and Docker
 
 
+![](https://komarev.com/ghpvc/?username=WesleyVitor&color=green)
+
 
 <div align="left">
   <a href="https://github.com/WesleyVitor">
