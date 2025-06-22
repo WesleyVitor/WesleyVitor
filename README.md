@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🚀 Software Developer focus on Python and Ruby
-- 🌱 I’m currently learning Elixir and Functional Programming
+- 🚀 Software Developer focus on Python Web Development 
+- 🌱 I’m currently learning about LLM
 
 
 ![](https://komarev.com/ghpvc/?username=WesleyVitor&color=green)
